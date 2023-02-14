@@ -1,6 +1,7 @@
 # Software Architecture & Design
 - *architecture*: focus on developing the skeleton of software
 - *design*: focus on the code level design, funcs, modules, classes, etc.
+
 | Name | Scope | Defines | Creates | Patterns |
 | --- | --- | --- | --- | --- |
 | Architecture | System | Main properties | High-Level Structure | Microservices, serverless, etc. | 
